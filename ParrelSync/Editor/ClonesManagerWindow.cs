@@ -25,6 +25,11 @@ namespace ParrelSync
             window.Show();
         }
 
+        [MenuItem("ParrelSync/Start Clone 1", priority = 1)]
+        private static void InitWindow()
+        {
+           
+        }
         /// <summary>
         /// For storing the scroll position of clones list
         /// </summary>
