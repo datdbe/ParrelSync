@@ -26,7 +26,7 @@ namespace ParrelSync
         }
 
         [MenuItem("ParrelSync/Start Clone 1", priority = 1)]
-        private static void InitWindow()
+        private static void OpenClone1()
         {
            
         }
